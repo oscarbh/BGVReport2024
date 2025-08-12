@@ -1,0 +1,506 @@
+
+@media only screen and (max-width: 1199px) {
+  .menu-collapser {
+    right: 20px;
+  }
+  .header-logo img {
+    width: 200px;
+  }
+
+  .headersec .container {
+    padding-top: 0;
+  }
+  .pushmenu ul li a {
+    padding: 10px;
+  }
+
+  .bnrtxt .bnrtxtinr img {
+    width: 70%;
+    margin: auto;
+    display: block;
+  }
+
+  .tophdng h1,
+  .tophdng h2 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .innrSecTxt p {
+    font-size: 15px;
+    line-height: 28px;
+  }
+
+  .inrSecContWrap .inrSecImg {
+    width: 165px;
+    margin: 0 0 10px 15px;
+  }
+
+  .innrBtmCont img {
+    width: 250px;
+  }
+
+  .whtWeDoContWrap .tophdng h4 {
+    font-size: 17px;
+    line-height: 27px;
+  }
+
+  .bodNameBtmTxt span {
+    margin-right: 70px;
+  }
+
+  .ftrLogo a img {
+    width: 220px;
+  }
+  .financials .chartSec ul li.c-three {
+    right: -5%;
+    bottom: 3%;
+  }
+  .financials .chartSec ul li.c-two {
+    right: 0;
+    top: 30%;
+  }
+  .financials .chartSec ul li.c-one {
+    left: 10%;
+    top: 45%;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .pushmenu {
+    padding-top: 100px;
+  }
+  .openpush .pushmenu {
+    padding-top: 100px;
+  }
+
+  .pushmenu ul li a {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .bnrtxt .bnrtxtinr img {
+    width: 150px;
+    margin-top: 120px;
+  }
+
+  .commonSection {
+    padding: 30px 0 30px 0;
+  }
+
+  .bodNameBtmTxt span {
+    margin-right: 10px;
+    margin-top: 15px;
+  }
+
+  .secFiveImgWrap {
+    width: 200px;
+  }
+
+  .foterSec {
+    padding: 60px 0;
+  }
+
+  .ftrLogo a img {
+    width: 180px;
+  }
+  .collapse-button.showtoggle {
+    padding-left: 20px !important;
+    margin-top: 10px;
+  }
+  .foterSec .ftrQrTxtWrap {
+    max-width: 100%;
+    text-align: center;
+  }
+  .ftrQRWrap {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .ftrQRWrap {
+    max-width: 100px;
+    margin: auto;
+  }
+  .secTwo .bodNameCol h3 {
+    font: 800 20px/26px "balboaw01-boldregular", sans-serif;
+    margin-top: 10px;
+  }
+
+  .secThree .tophdng h2 {
+    font-size: 36px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .secThree {
+    margin-top: 20px;
+  }
+
+  .people .tophdng p em {
+    font-size: 18px;
+  }
+
+  .people .innrSecTxt p b {
+    font: 400 16px/24px "Neuton", serif;
+  }
+
+  .financials .blue-title h4 {
+    font: 800 20px/36px "balboaw01-boldregular", sans-serif;
+  }
+
+  .financials .bodNameCol h5 {
+    padding: 0;
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  .financials .chartSec img {
+    max-width: 100%;
+
+    margin-bottom: 50px;
+  }
+
+  .financials .chartSec ul li p {
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .financials .chartSec ul li.c-two {
+    top: 25%;
+    right: 15%;
+  }
+
+  .financials .bodNameCol {
+    border: 5px solid #c5e7c8;
+    height: 150px;
+  }
+
+  .bodNameSec {
+    width: 100%;
+    margin: auto;
+  }
+  .tophdng.blue-title h2 {
+    font-size: 36px;
+    margin-bottom: 0;
+  }
+
+  .whtWeDoContWrap {
+    margin-bottom: 30px;
+  }
+
+  .innrSecTxt p b {
+    font: 800 15px/26px "balboaw01-boldregular", sans-serif;
+  }
+
+  .header-logo img {
+    max-width: 80px;
+  }
+  .headersec.fixed .header-logo img {
+    max-width: 70px;
+
+    visibility: visible !important;
+  }
+
+  .menu-collapser {
+    right: 20px;
+  }
+
+  .hderinr .collapse-button span.icon-bar {
+    width: 40px;
+    height: 6px;
+  }
+
+  .bannerSec.border-bottom {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .bannerSec .bnrImg {
+    padding-bottom: 20px;
+  }
+
+  .bnrtxt {
+    bottom: 30px;
+  }
+  .secThree .WhatWeDoCol .weimage img {
+    width: 100%;
+
+    height: auto;
+  }
+  .financials .chartSec ul li.c-three {
+    right: 14%;
+    bottom: 19%;
+  }
+  .headersec .container {
+    padding-top: 0;
+  }
+  .bnrtxt .bnrtxtinr img {
+    width: 70%;
+    margin: auto;
+    display: block;
+  }
+  .secThree .WhatWeDoCol.girl-image .weimage img {
+    width: 200px;
+  }
+  .bodNameCol {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .secTwo .bodNameCol {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  .bodNameCol.the-village-title {
+    display: block;
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+
+  .bodNameCol h3.bd-mobile-title,
+  .bodNameCol.innrSecTxt p.bd-desktop-title,
+  .tophdng.desktop-title {
+    display: none;
+  }
+  .bodNameCol.innrSecTxt p.bd-mobile-title,
+  .tophdng.mobile-title {
+    display: block;
+  }
+  .secTen.commonSection.thankyou .innrSecTxt img {
+    width: 200px;
+  }
+
+  .commonSection .container,
+  .secFour .container,
+  .foterSec .container {
+    padding: 0 15px;
+  }
+
+  .bnrtxt .bnrtxtinr img {
+    width: 100%;
+    margin-top: 90px;
+  }
+
+  .inrSecContWrap .inrSecImg {
+    width: 140px;
+  }
+
+  .tophdng h1,
+  .tophdng h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 12px;
+  }
+
+  .innrSecTxt p {
+    font-size: 14px;
+    line-height: 27px;
+  }
+
+  .bodNameCol {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 20px;
+  }
+
+  .bodNameBtmTxt {
+    text-align: left;
+  }
+
+  .bodNameBtmTxt span {
+    margin-top: 0;
+    margin-right: 0;
+  }
+
+  .WhatWeDoSec .WhatWeDoCol:first-child {
+    padding-right: 15px;
+  }
+
+  .accmplishmntImg,
+  .accmplishmntGrpTxt {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .accmplishmntImg img {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .secFour .accmplishmntGroup {
+    margin-bottom: 5px;
+  }
+
+  .secFour .whtWeDoContWrap {
+    margin-bottom: 0;
+  }
+
+  .financialImg img {
+    width: 100%;
+  }
+
+  .ftrCont h3,
+  .ftrQrTxtWrap h3 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .ftrCont p {
+    font-size: 12px;
+  }
+
+  .ftrQrTxtWrap.innrSecTxt p {
+    font-size: 12px;
+  }
+
+  .WhatWeDoCol {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .WhatWeDoSec .WhatWeDoCol:nth-child(2) .whtWeDoContWrap:nth-child(2) {
+    margin-bottom: 0;
+  }
+
+  .WhatWeDoSec .WhatWeDoCol:nth-child(2) .whtWeDoContWrap:nth-child(2) p {
+    margin-bottom: 0;
+  }
+
+  .secFour {
+    padding: 50px 0 30px 0;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .commonSection .container,
+  .secFour .container,
+  .foterSec .container {
+    padding: 0 25px;
+  }
+
+  .bnrtxt .bnrtxtinr img {
+    width: 100%;
+    margin-top: 65px;
+    margin-right: 0;
+  }
+
+  .whtWeDoContWrap .tophdng h4 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .secFiveImgWrap {
+    width: 100%;
+    float: none;
+    margin-bottom: 15px;
+  }
+
+  .secOne .inrSecContWrap {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .secOne .inrSecContWrap .innerSecCont {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .inrSecContWrap .inrSecImg {
+    float: none;
+    margin: 0 0 15px 0;
+    order: 1;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .headersec {
+    padding: 17px 0;
+  }
+
+  .collapse-button .icon-bar {
+    background-color: #0166b0;
+  }
+
+  .headersec.fixed .collapse-button .icon-bar {
+    background-color: #1f3f9b;
+  }
+
+  .commonSection .container,
+  .secFour .container,
+  .foterSec .container {
+    padding: 0 15px;
+  }
+
+  .bodNameBtmTxt span {
+    font-size: 12px;
+    line-height: 22px;
+  }
+
+  .whtWeDoContWrap .tophdng h4 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  .bnrtxt .bnrtxtinr img {
+    margin-top: 0;
+    width: 100%;
+
+    margin-right: 0;
+  }
+
+  .commonSection {
+    padding: 30px 0 30px 0;
+  }
+
+  .secFour {
+    margin-top: 0;
+  }
+
+  .secFive .accmplishmntcont {
+    margin-bottom: 30px;
+  }
+
+  .tophdng h1,
+  .tophdng h2 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .innrSecTxt p {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 20px;
+  }
+
+  .foterSec {
+    margin-top: 0;
+    padding: 30px 0;
+  }
+
+  .ftrBtmGroup {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .ftrQRWrap {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .bnrtxt .bnrtxtinr img {
+    margin-top: 48px;
+    margin-right: 26px;
+    width: 70px;
+  }
+}
